@@ -1,3 +1,4 @@
+//Copyright 2019 <VladDarb2000>
 #ifndef __JSON_H__
 #define __JSON_H__
 
